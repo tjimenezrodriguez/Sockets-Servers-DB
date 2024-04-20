@@ -1,12 +1,3 @@
-"""
-Programación Paralela
-
-Práctica 2: Sockets y arquitectura cliente-servidor
-
-Integrantes: Álex Carrillo Delgado, Alonso Delgado Morales, Teófilo Jiménez Rodríguez.
-
-"""
-
 from socket import socket
 import threading
 from bdatos import alta, baja, modificacion, consulta, copia, borrar
