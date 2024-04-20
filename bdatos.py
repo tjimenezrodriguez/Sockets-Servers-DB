@@ -1,12 +1,3 @@
-"""
-Programación Paralela
-
-Práctica 2: Sockets y arquitectura cliente-servidor
-
-Integrantes: Álex Carrillo Delgado, Alonso Delgado Morales, Teófilo Jiménez Rodríguez.
-
-"""
-
 import threading  # a nuestra clase le hemos añadido directamente los bloqueos, para poder hacer un tratamiento seguro y compartimentado de la información
 # esto corresponde al paso extra: bloqueo selectivo
 
